@@ -26,6 +26,9 @@ https://github.com/sana7867/GestionHotelVille/assets/147515885/93f4dfbe-92ff-402
 
 5. **Hibernate :** technologie de persistance des données soit utilisé pour simplifier l'interaction avec la base de données relationnelle.
 
+# Data source :
+
+![image](https://github.com/sana7867/GestionHotelVille/assets/147515885/5386e947-4d60-439b-a8ff-6c84f18ec441)
 
 
  
